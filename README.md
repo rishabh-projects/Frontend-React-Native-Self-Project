@@ -1,7 +1,7 @@
 # Frontend-Mobile-Responsive-Web-Design-React-Native-Flutter-HTML-CSS-Airbnb-Covid-19-Tracker-Deliveroo-Discord-Disney-Gmail-Instagram-LinkedIn-Netflix-NFT-Marketplace-Pinterest-Razorpay-Signal-Slack-Spotify-Starbucks-Tesla-Tiktok-Tinder-Uber-Uber-Eats-WhatsApp-YouTube-Zoom
 ## Build Airbnb, Covid-19, Tracker, Deliveroo, Discord, Disney, Gmail, Instagram, LinkedIn, Netflix, NFT-Marketplace, Pinterest, Razorpay, Signal, Slack, Spotify, Starbucks, Tesla, Tiktok, Tinder, Uber, Uber-Eats, WhatsApp, YouTube, Zoom
 
-#### Build Uber Eats with React Native YELP API Redux Firebase Google API
+### Build Uber Eats with React Native YELP API Redux Firebase Google API
 ###### App Demo and Challenge Introduction 
 
 ###### Start the Build
@@ -42,7 +42,7 @@
 
 ###### App Finished and Outro
 
-#### Build an Instagram Clone with React Native Firebase Firestore Redux Expo
+### Build an Instagram Clone with React Native Firebase Firestore Redux Expo
 
 ###### Setting up React Native Expo
 
@@ -72,7 +72,7 @@
 
 ###### Redesign Release
 
-#### Build and Deploy React Native App NFT Marketplace
+### Build and Deploy React Native App NFT Marketplace
 
 ###### Intro
 
@@ -90,7 +90,7 @@
 
 ###### Deployment
 
-#### News App in React Native Inshorts Clone Project Context API
+### News App in React Native Inshorts Clone Project Context API
 
 ###### Intro
 
@@ -129,7 +129,7 @@
 
 ###### Deployment / Building APK
 
-#### Tinder Clone MongoDB Authentication Cookies Chat
+### Tinder Clone MongoDB Authentication Cookies Chat
 
 ###### Introduction
 
@@ -181,7 +181,7 @@
 
 ###### Adding a .env file
 
-#### Build the Airbnb app in React Native
+### Build the Airbnb app in React Native
 
 ###### Intro
 
@@ -205,7 +205,7 @@
 
 ###### React Navigation v5
 
-#### Build a Spotify Clone in React Native
+### Build a Spotify Clone in React Native
 
 ###### Intro
 ###### Initialize the project
