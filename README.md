@@ -2,26 +2,45 @@
 ## Build Airbnb, Covid-19, Tracker, Deliveroo, Discord, Disney, Gmail, Instagram, LinkedIn, Netflix, NFT-Marketplace, Pinterest, Razorpay, Signal, Slack, Spotify, Starbucks, Tesla, Tiktok, Tinder, Uber, Uber-Eats, WhatsApp, YouTube, Zoom
 
 #### Build Uber Eats with React Native YELP API Redux Firebase Google API
-App Demo and Challenge Introduction 
-Start the Build
-HeaderTabs.js
-SearchBar.js
-Categories.js
-RestaurantItem.js
-Search Functionality and Filter for Pickup/Delivery (APIs)
-BottomTabs.js
-About.js
-MenuItem.js
-Making About.js Dynamic
-Adding Navigation
-Add Checkboxes MenuItems
-ViewCart.js Button
-Adding Redux to the Project 
-Add Modal to ViewCart
-Add Firebase Database
-Order Completed
-Add loading screen
-App Finished and Outro
+###### App Demo and Challenge Introduction 
+
+###### Start the Build
+
+###### HeaderTabs.js
+
+###### SearchBar.js
+
+###### Categories.js
+
+###### RestaurantItem.js
+
+###### Search Functionality and Filter for Pickup/Delivery (APIs)
+
+###### BottomTabs.js
+
+###### About.js
+
+###### MenuItem.js
+
+###### Making About.js Dynamic
+
+###### Adding Navigation
+
+###### Add Checkboxes MenuItems
+
+###### ViewCart.js Button
+
+###### Adding Redux to the Project 
+
+###### Add Modal to ViewCart
+
+###### Add Firebase Database
+
+###### Order Completed
+
+###### Add loading screen
+
+###### App Finished and Outro
 
 #### Build an Instagram Clone with React Native Firebase Firestore Redux Expo
 Setting up React Native Expo
