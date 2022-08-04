@@ -1,4 +1,3 @@
-# Frontend-Mobile-Responsive-Web-Design-React-Native-Flutter-HTML-CSS-Airbnb-Covid-19-Tracker-Deliveroo-Discord-Disney-Gmail-Instagram-LinkedIn-Netflix-NFT-Marketplace-Pinterest-Razorpay-Signal-Slack-Spotify-Starbucks-Tesla-Tiktok-Tinder-Uber-Uber-Eats-WhatsApp-YouTube-Zoom
 ## Build Airbnb, Covid-19, Tracker, Deliveroo, Discord, Disney, Gmail, Instagram, LinkedIn, Netflix, NFT-Marketplace, Pinterest, Razorpay, Signal, Slack, Spotify, Starbucks, Tesla, Tiktok, Tinder, Uber, Uber-Eats, WhatsApp, YouTube, Zoom
 
 ### Build Uber Eats with React Native YELP API Redux Firebase Google API
